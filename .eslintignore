@@ -1,0 +1,6 @@
+/node_modules
+/public
+/dist
+/.next
+/coverage
+next.config.js
