@@ -1,0 +1,13 @@
+{
+  "adjustRpcModel": "Adjust RPC Model",
+  "cutTiles": "Cut Tiles",
+  "epipolarRectification": "Epipolar Rectification",
+  "importSatelliteImage": "Import Satellite Image {{index}}",
+  "importSatelliteRpc": "Import Satellite RPC {{index}}",
+  "interpolationBilinear": "Bilinear Interpolation",
+  "getOutput": "Get Output",
+  "spatialPointIntersection": "Spatial Point Intersection",
+  "stereoMatchingMGM": "MGM Stereo Matching",
+  "stereoMatchingSGBM": "SGBM Stereo Matching",
+  "triangulation": "Triangulation"
+}

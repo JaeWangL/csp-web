@@ -7,6 +7,7 @@ import { RecoilRoot } from 'recoil';
 import { ToastContainer } from 'react-toastify';
 import { NextUIProvider } from '@nextui-org/react';
 import 'react-toastify/dist/ReactToastify.css';
+import '@lib/styles/global.scss';
 
 interface IMyAppStates {
   isRouteChanging: boolean;

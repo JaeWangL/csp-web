@@ -1,0 +1,18 @@
+{
+  "extends": "stylelint-config-standard",
+  "formatter": "stylelint-checkstyle-formatter",
+  "plugins": [
+    "stylelint-order",
+    "stylelint-scss"
+  ],
+  "rules": {
+		"order/order": [
+			"custom-properties",
+			"declarations"
+		],
+		"order/properties-order": [
+			"width",
+			"height"
+		]
+	}
+}

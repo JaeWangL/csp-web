@@ -1,0 +1,35 @@
+body {
+  font-family: 'Pretendard', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.flow-wrapper {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(112deg, #AAFFEC -63.59%, #ff4ecd -20.3%, #0070F3 70.46%);
+}
+
+.edge-container {
+  padding: 12px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px #111 solid;
+  display: flex;
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .title {
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 8px;
+  }
+}
